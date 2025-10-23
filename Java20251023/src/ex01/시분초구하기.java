@@ -24,6 +24,7 @@ public class 시분초구하기 {
 		int seconds= inputData % 60;
 		System.out.println(hours + "시간, " + minutes + "분, " + seconds + "초, ");
 		
+		
 	}
 
 }
