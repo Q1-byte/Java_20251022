@@ -1,0 +1,15 @@
+1. git init
+2. git add . (모든 파일 업로드하겠다)
+3. git commit -m "first commit"
+4. git config --global user.email "rlaeocjf@gmail.com"
+   git config --global user.name "kimdaechul"
+5. git branch -M main
+6. git remote add origin https://github.com/sinaboro/Java_20251020.git
+7. git push -u origin main
+
+
+
+--------- 두번째부터는
+2. git add .
+3. git commit -m "first commit"
+7. git push -u origin main
