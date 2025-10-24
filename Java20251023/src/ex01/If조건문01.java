@@ -4,7 +4,7 @@ public class If조건문01 {
 
 	public static void main(String[] args) {
 
-		int number = 15;
+		int number = 21;
 		
 		if(number > 20) {
 			System.out.println("당신은 성년입니다.");
