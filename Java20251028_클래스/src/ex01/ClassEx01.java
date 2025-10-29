@@ -10,7 +10,7 @@ public class ClassEx01 {
 		s1.address = "강동구 천호동";
 		
 		System.out.println(s1.name);
-		System.out.println(s1.age);
+		//System.out.println(s1.age);
 		System.out.println(s1.address);
 		s1.study();
 		
@@ -40,7 +40,10 @@ class student{
 	int age;
 	String address;
 	
-	void study() {
+	public void study() {
 		System.out.println(name + " Jaba 공부 중 입니다.");
+	}
+	public void eat() {
+	System.out.println(name + "아침을 먹는다!");
 	}
 }
